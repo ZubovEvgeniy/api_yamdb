@@ -9,8 +9,3 @@ python-dotenv
 djangorestframework-simplejwt
 django-filter
 tqdm
-gunicorn==20.0.4
-psycopg2-binary==2.8.6
-pytz==2020.1
-sqlparse==0.3.1
-asgiref==3.2.10 #
